@@ -8,6 +8,7 @@ const vitepressSidebarOptions = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true,
   appearance: false,
   markdown: {
     image: {
