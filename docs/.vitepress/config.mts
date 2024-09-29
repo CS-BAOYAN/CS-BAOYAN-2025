@@ -31,7 +31,7 @@ export default defineConfig({
   }, 
   lastUpdated: true,
   lang: 'zh-CN',
-  base: '/',
+  base: '/CSBAOYAN2025',
   title: "CSBAOYAN2025",
   description: "CSBAOYAN2025",
   themeConfig: {
