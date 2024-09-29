@@ -21,10 +21,12 @@ hero:
     alt: CSBAOYAN logo
 
 features:
-  - title: 基础教学
-    details: 视觉组培训，掌握基本的 Skills for RM Vision。
-  - title: 快速查阅
-    details: 常见安装/常见报错/快速查阅。
-  - title: 代码文档
-    details: 学习视觉组代码结构。
+  - title: 保研分享
+    details: 往届学长学姐经验汇总。
+  - title: 文书准备
+    details: 如何套磁/写简历。
+  - title: 资料汇总
+    details: 往届题目，机试记录。
+  - title: 导师推荐
+    details: 分析导师，院校扫盲。
 ---
