@@ -7,6 +7,7 @@
     "vitepress-export-pdf": "^1.0.0",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-google-analytics": "^1.0.2",
+    "vitepress-plugin-group-icons": "^1.2.4",
     "vitepress-sidebar": "^1.23.2",
     "vue": "^3.4.31"
   },

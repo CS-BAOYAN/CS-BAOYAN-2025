@@ -8,7 +8,7 @@ import googleAnalytics from 'vitepress-plugin-google-analytics'
 import "./components/Layout.vue"
 import { inBrowser } from 'vitepress'
 import busuanzi from 'busuanzi.pure.js'
-
+import 'virtual:group-icons.css'
 import { 
   NolebaseEnhancedReadabilitiesMenu, 
   NolebaseEnhancedReadabilitiesPlugin,

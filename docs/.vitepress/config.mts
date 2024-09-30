@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
+import { groupIconMdPlugin, groupIconVitePlugin } from 'vitepress-plugin-group-icons'
 
 const vitepressSidebarOptions = {
   /* Options... */
@@ -11,12 +12,18 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: false,
   markdown: {
+    config(md) { 
+      md.use(groupIconMdPlugin) //代码组图标
+    },
     image: {
       lazyLoading: true
     },
     math: true
   },
   vite: { 
+    plugins: [
+      groupIconVitePlugin() //代码组图标
+    ],
     optimizeDeps: {
       exclude: [ 
         '@nolebase/vitepress-plugin-enhanced-readabilities/client', 
