@@ -28,10 +28,10 @@ export default {
         
     // giscus配置
     giscusTalk({
-      repo: 'XJTU-RMV/XJTU-RMV.github.io', //仓库
-      repoId: 'R_kgDOMqXVEA', //仓库ID
+      repo: 'CS-BAOYAN/CS-BAOYAN-2025', //仓库
+      repoId: 'R_kgDOM44fMA', //仓库ID
       category: 'Announcements', // 讨论分类
-      categoryId: 'DIC_kwDOMqXVEM4CiDzM', //讨论分类ID
+      categoryId: 'DIC_kwDOM44fMM4Ci6RT', //讨论分类ID
       mapping: 'pathname',
       inputPosition: 'bottom',
       lang: 'zh-CN',
