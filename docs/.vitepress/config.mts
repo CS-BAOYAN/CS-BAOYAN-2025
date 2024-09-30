@@ -12,7 +12,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: false,
   markdown: {
-    config(md) { 
+    config(md) {
       md.use(groupIconMdPlugin) //代码组图标
     },
     image: {
@@ -20,30 +20,30 @@ export default defineConfig({
     },
     math: true
   },
-  vite: { 
+  vite: {
     plugins: [
       groupIconVitePlugin() //代码组图标
     ],
     optimizeDeps: {
-      exclude: [ 
-        '@nolebase/vitepress-plugin-enhanced-readabilities/client', 
-      ], 
+      exclude: [
+        '@nolebase/vitepress-plugin-enhanced-readabilities/client',
+      ],
     },
-    ssr: { 
-      noExternal: [ 
+    ssr: {
+      noExternal: [
         // 如果还有别的依赖需要添加的话，并排填写和配置到这里即可
-        '@nolebase/vitepress-plugin-enhanced-readabilities', 
-      ], 
-    }, 
-  }, 
+        '@nolebase/vitepress-plugin-enhanced-readabilities',
+      ],
+    },
+  },
   lastUpdated: true,
   lang: 'zh-CN',
   base: '/CS-BAOYAN-2025',
   title: "CSBAOYAN2025",
   description: "CSBAOYAN2025",
   themeConfig: {
-    sidebarMenuLabel:'目录', 
-    returnToTopLabel:'返回顶部', 
+    sidebarMenuLabel: '目录',
+    returnToTopLabel: '返回顶部',
     lastUpdated: {
       text: '上次更新于',
       formatOptions: {
@@ -51,25 +51,25 @@ export default defineConfig({
         timeStyle: 'medium'
       },
     },
-    footer: { 
+    footer: {
       // message: 'Released under the MIT License.', 
-      copyright: 'Copyright © 2024-present CSBAOYAN', 
-    }, 
-    docFooter: { 
-      prev: '上一页', 
-      next: '下一页', 
-    }, 
-    editLink: { 
+      copyright: 'Copyright © 2024-present CSBAOYAN',
+    },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页',
+    },
+    editLink: {
       pattern: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025/edit/main/docs/:path', // 改成自己的仓库
       text: '在GitHub编辑本页'
-    }, 
+    },
     outline: {
-      level: [2,10], // 显示2-6级标题
+      level: [2, 10], // 显示2-6级标题
       label: '目录' // 文字显示
     },
-    search: { 
+    search: {
       provider: 'local'
-    }, 
+    },
     logo: {
       src: '/logo.png',
       alt: 'Logo: CSBAOYAN',
@@ -90,9 +90,9 @@ export default defineConfig({
     ],
 
     sidebar: generateSidebar({
-      documentRootPath: '/docs', 
+      documentRootPath: '/docs',
       useFolderLinkFromIndexFile: true,
-      manualSortFileNameByPriority: ['关于我们.md', '贡献指南.md', 'second', 'third.md'],
+      manualSortFileNameByPriority: ['关于我们.md', '贡献指南.md', '2024年保研总结贴', '2023年.md', '2022年.md', '2021年.md', '2020年.md', '2019年.md', '2018年.md', '2017年.md'],
       useTitleFromFileHeading: true,
     }),
 
