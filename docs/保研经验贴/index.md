@@ -3,7 +3,19 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
 感谢所有同学的无私分享~ 谢谢大家~
-感谢前任群主和学长们[shiyi001](https://github.com/shiyi001)、[hcy](https://github.com/hcy226)、[Andy Zheng](https://github.com/Smlight)、[BoJack](https://github.com/ddlBoJack)、[墨云沧（虎哥）](https://github.com/richardodliu)和[阿尔法杨XDU（杨神）](https://github.com/Alpha-Yang)的收集和整理，保研经验贴、夏令营信息和预推免信息以后将统一在本项目中更新。
+
+感谢前任群主和学长们[ZhikangNiu](https://github.com/ZhikangNiu)、[shiyi001](https://github.com/shiyi001)、[hcy](https://github.com/hcy226)、[Andy Zheng](https://github.com/Smlight)、[BoJack](https://github.com/ddlBoJack)、[墨云沧（虎哥）](https://github.com/richardodliu)和[阿尔法杨XDU（杨神）](https://github.com/Alpha-Yang)的收集和整理，保研经验贴、夏令营信息和预推免信息以后将统一在本项目中更新。
+
+## TOC
+
+- [2024年保研总结贴](./2024年保研总结贴/)
+- [2023年保研总结贴](./2023.md)
+- [2022年保研总结贴](./2022.md)
+- [2021年保研总结贴](./2021.md)
+- [2020年保研总结贴](./2020.md)
+- [2019年保研总结贴](./2019.md)
+- [2018年保研总结贴](./2018.md)
+- [2017年保研总结贴](./2017.md)
 
 ## Copyright
 
