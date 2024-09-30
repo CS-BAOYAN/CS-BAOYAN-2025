@@ -4,10 +4,7 @@
 
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群冲刺系列1-文书准备](https://www.bilibili.com/video/BV1xg41157Cp?spm_id_from=333.999.0.0)
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群冲刺系列2-面试准备](https://www.bilibili.com/video/BV1564y1e7b9?spm_id_from=333.999.0.0)
-
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群冲刺系列3-科研思考](https://www.bilibili.com/video/BV1Dg411G7wG?spm_id_from=333.999.0.0)
-
-
 
 ## 保研学校专题讲座
 
@@ -16,8 +13,6 @@
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群院校专题讲座3-中国科学院大学](https://www.bilibili.com/video/BV1xK4y1A7oy?spm_id_from=333.999.0.0)
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群院校专题讲座4-上海交通大学&复旦大学20210515](https://www.bilibili.com/video/BV1F64y1k7ED?spm_id_from=333.999.0.0)
 * @[墨云沧](https://space.bilibili.com/21846767?from=search&seid=104103838776132911&spm_id_from=333.337.0.0)的[计算机保研交流群院校专题讲座5-南京大学&浙江大学&中国科学技术大学（南大在最后的彩蛋里面）](https://www.bilibili.com/video/BV11B4y1u7Aq?spm_id_from=333.999.0.0)
-
-
 
 ## 保研答疑讲座
 
