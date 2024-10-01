@@ -9,3 +9,5 @@
 * @[Maxxx](https://www.zhihu.com/people/jing-yu-yu-yu-kkkk)的[2024年次九计算机实验班保研经验分享|预推免战士|圆梦浙大](https://zhuanlan.zhihu.com/p/778165195)
 * @[Chenruishuo](https://github.com/Chenruishuo)的[24数学跨保AI经验贴——五营六offer（清叉|清AI|南大AI|上交AI|复旦管院DSBA|港中深sds）](https://zhuanlan.zhihu.com/p/722033980)
 * @[追光](https://github.com/Weistrass)的[25届次九实验班CS专业低rk保研上岸经验贴（含保研建议，必看）——哈深、天大、山大、中科大、东南、北京通研院等](https://zhuanlan.zhihu.com/p/787434682)
+* @[安娜苏](https://github.com/Je3ter)的[低rk无科研acmer，2025届计算机保研经验贴（南大cs，同济cs，北大软微）](https://zhuanlan.zhihu.com/p/767565015)
+
