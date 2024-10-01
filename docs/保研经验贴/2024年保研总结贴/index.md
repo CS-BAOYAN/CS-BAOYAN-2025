@@ -6,3 +6,4 @@
 * @[Auroral703](https://github.com/Auroral703)的[2024年（25届）末二中rank计算机推免套磁&&面试经验帖——南开cmm、东南palm、西交软（扫盲向）](https://zhuanlan.zhihu.com/p/722088790)
 * @[HDswag](https://www.zhihu.com/people/swaggyp-79-58)的[25届计算机保研流水账——天大智算保姆书+化学预推免+算法岗实习！(天大智算、厦大信院、瓜大计院、东南计软智、南开计院)](https://zhuanlan.zhihu.com/p/705127447)
 * @[Ark](https://www.cnblogs.com/-ark)的[2021级-人工智能-保研记录（北大医学部+清叉+北大未院+北大软微+人大信院+上交密院+浙大计院+西湖+北京通研院+上海人工智能实验室)](https://www.cnblogs.com/-ark/p/18439590)
+* @[追光](https://github.com/Weistrass)的[25届次九实验班CS专业低rk保研上岸经验贴（含保研建议，必看）——哈深、天大、山大、中科大、东南、北京通研院等](https://zhuanlan.zhihu.com/p/787434682)
