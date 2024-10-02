@@ -12,6 +12,6 @@
 * @[追光](https://github.com/Weistrass)的[25届次九实验班CS专业低rk保研上岸经验贴（含保研建议，必看）——哈深、天大、山大、中科大、东南、北京通研院等](https://zhuanlan.zhihu.com/p/787434682)
 * @[安娜苏](https://github.com/Je3ter)的[低rk无科研acmer，2025届计算机保研经验贴（南大cs，同济cs，北大软微）](https://zhuanlan.zhihu.com/p/767565015)
 * @[安娜苏的npy](https://github.com/Je3ter)的[2024年（25届）CS基本纯绩点选手保研经验贴](https://zhuanlan.zhihu.com/p/767703181)
-* @[Illusionna](https://github.com/Illusionna)的[2024 年，数学跨保计算机（索引页）](https://www.orzzz.net/directory/about/Undergraduate/PostgraduateRecommendation/index.html)
+* @[Illusionna](https://github.com/Illusionna)的[数学跨保计算机【索引页】](https://www.orzzz.net/directory/about/Undergraduate/PostgraduateRecommendation/index.html)
 * @[Superb9Piggy1](https://zhuanlan.zhihu.com/p/790480809)的[2024年（25届）计算机保研 次九+普通rank+低竞赛+低科研经验分享（南大CS）](https://zhuanlan.zhihu.com/p/790480809)
 * @[binnn](https://www.zhihu.com/people/w-bei-shang)的[2025届计算机保研流水账（上交ai、pjlab、北深、北大软微、计算所寒武纪组）](https://zhuanlan.zhihu.com/p/762734102)
