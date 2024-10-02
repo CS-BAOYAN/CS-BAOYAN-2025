@@ -13,3 +13,4 @@
 * @[安娜苏](https://github.com/Je3ter)的[低rk无科研acmer，2025届计算机保研经验贴（南大cs，同济cs，北大软微）](https://zhuanlan.zhihu.com/p/767565015)
 * @[安娜苏的npy](https://github.com/Je3ter)的[2024年（25届）CS基本纯绩点选手保研经验贴](https://zhuanlan.zhihu.com/p/767703181)
 * @[Illusionna](https://github.com/Illusionna)的[2024 年，数学跨保计算机（索引页）](https://www.orzzz.net/directory/about/Undergraduate/PostgraduateRecommendation/index.html)
+* @[binnn](https://www.zhihu.com/people/w-bei-shang)的[2025届计算机保研流水账（上交ai、pjlab、北深、北大软微、计算所寒武纪组）](https://zhuanlan.zhihu.com/p/762734102)
