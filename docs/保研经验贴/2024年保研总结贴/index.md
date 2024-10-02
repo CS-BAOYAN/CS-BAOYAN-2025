@@ -15,3 +15,4 @@
 * @[Superb9Piggy1](https://zhuanlan.zhihu.com/p/790480809)的[2024年（25届）计算机保研 次九+普通rank+低竞赛+低科研经验分享（南大CS）](https://zhuanlan.zhihu.com/p/790480809)
 * @[binnn](https://www.zhihu.com/people/w-bei-shang)的[2025届计算机保研流水账（上交ai、pjlab、北深、北大软微、计算所寒武纪组）](https://zhuanlan.zhihu.com/p/762734102)
 * @[凌霜羽](https://www.zhihu.com/people/star-85-10-90)的[2025届计算机保研碎碎念 | 低rank平保中山cs(深先院、中山cs、东南cs)（保研实习双开版）](https://zhuanlan.zhihu.com/p/719879083)
+* @[LawnJerch](https://github.com/Alter-Liu)的[2025届计算机保研流水账 | 低rank有科研有实习（西湖大学、计算所、贵系工程硕博）](https://zhuanlan.zhihu.com/p/796755384)
