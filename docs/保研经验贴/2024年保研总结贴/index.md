@@ -18,3 +18,4 @@
 * @[Jupiter](https://www.zhihu.com/people/chirs-3-4)的[2024年（2025届）计算机保研——低rank上岸路（中科大先研、西工大cs、中山cs、国防科大cs、哈工大、软微、计算所）](https://zhuanlan.zhihu.com/p/786622126)
 * @[Fsamuellll](https://www.zhihu.com/people/fsamuel)的[25届计算机保研经验分享（10天梦幻保研旅程）](https://zhuanlan.zhihu.com/p/708507301)
 * @[LawnJerch](https://github.com/Alter-Liu)的[2025届计算机保研流水账 | 低rank有科研有实习（西湖大学、计算所、贵系工程硕博）](https://zhuanlan.zhihu.com/p/796755384)
+* @[合金Bunny酱](https://space.bilibili.com/305821778)的[2024计算机保研经验贴（哈工深，中山，华工，东南）](https://www.bilibili.com/opus/982457937753538582)
