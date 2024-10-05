@@ -20,4 +20,8 @@
 * @[LawnJerch](https://github.com/Alter-Liu)的[2025届计算机保研流水账 | 低rank有科研有实习（西湖大学、计算所、贵系工程硕博）](https://zhuanlan.zhihu.com/p/796755384)
 * @[合金Bunny酱](https://space.bilibili.com/305821778)的[2024计算机保研经验贴（哈工深，中山，华工，东南）](https://www.bilibili.com/opus/982457937753538582)
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴上-夏令营篇-清叉北智软微人大高瓴清深TBSI复旦CS科大CS](https://zhuanlan.zhihu.com/p/774165680)
+<<<<<<< HEAD
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴下-预推免篇-清网研清软北计软微浙大CS](https://zhuanlan.zhihu.com/p/808810450)
+=======
+* @[WhiteNight](https://github.com/WhiteNight123)的[2024年（25届）四非计算机保研经验贴（浙软，北邮，重大，成电，西电杭，深大）](https://zhuanlan.zhihu.com/p/808961775)
+>>>>>>> 7ab52e6079fcd144aa06d1181ab645dca6c4f0cb
