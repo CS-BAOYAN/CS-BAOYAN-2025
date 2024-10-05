@@ -1,8 +1,10 @@
 # 2024年保研总结贴
+* @[游戏新手老高](https://www.zhihu.com/people/97-34-14-78-68)的[2024末二 夏rk5预推rk2 无专利无论文 保研北航CS 科普&叙事向 2.8w字《保研记》](https://zhuanlan.zhihu.com/p/721669410)
+* @[lhmd](https://www.zhihu.com/people/li-hun-meng-die)的[25届（2024年）计算机保研回忆录（北大深圳，北京通院，西湖大学，浙大，上交，南大）--华五低rank版](https://zhuanlan.zhihu.com/p/816993503)
 * @[等柳成荫](https://www.zhihu.com/people/deng-liu-cheng-yin)的[2024年（25届）保研回忆录- 末2边缘人无六级版](https://zhuanlan.zhihu.com/p/791980186)
 * @[Nelson](https://bosswnx.xyz)的[2024年(25届)计算机保研211+低rk+强竞赛+零科研经验分享(南大智软)](https://zhuanlan.zhihu.com/p/764039629)
 * @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[全网唯一经管跨保计算机丨2024年(2025届)保研经验贴（上海ailab，中科大6系，计算所，南大lamda，中山计，浙软，同济）](https://zhuanlan.zhihu.com/p/709985313)
-* @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[2024保研经验贴 (包含 37 个保研经验贴的汇总)](https://www.zhihu.com/collection/967421846?utm_source=qq&utm_medium=social&utm_oi=885488150758191104)<small><u>**（Noting：由于我们没有得到这三十七位同学的授权，因此我们无法直接分享这些文章。）**</u></small>
+* @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[2024保研经验贴 (包含 82 个保研经验贴的汇总)](https://www.zhihu.com/collection/967421846?utm_source=qq&utm_medium=social&utm_oi=885488150758191104)<small><u>**（Noting：由于我们没有得到这八十二位同学的授权，因此我们无法直接分享这些文章。）**</u></small>
 * @[Auroral703](https://github.com/Auroral703)的[2024年（25届）末二中rank计算机推免套磁&&面试经验帖——南开cmm、东南palm、西交软（扫盲向）](https://zhuanlan.zhihu.com/p/722088790)
 * @[HDswag](https://www.zhihu.com/people/swaggyp-79-58)的[25届计算机保研流水账——天大智算保姆书+化学预推免+算法岗实习！(天大智算、厦大信院、瓜大计院、东南计软智、南开计院)](https://zhuanlan.zhihu.com/p/705127447)
 * @[Ark](https://www.cnblogs.com/-ark)的[2021级-人工智能-保研记录（北大医学部+清叉+北大未院+北大软微+人大信院+上交密院+浙大计院+西湖+北京通研院+上海人工智能实验室)](https://www.cnblogs.com/-ark/p/18439590)
@@ -20,8 +22,6 @@
 * @[LawnJerch](https://github.com/Alter-Liu)的[2025届计算机保研流水账 | 低rank有科研有实习（西湖大学、计算所、贵系工程硕博）](https://zhuanlan.zhihu.com/p/796755384)
 * @[合金Bunny酱](https://space.bilibili.com/305821778)的[2024计算机保研经验贴（哈工深，中山，华工，东南）](https://www.bilibili.com/opus/982457937753538582)
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴上-夏令营篇-清叉北智软微人大高瓴清深TBSI复旦CS科大CS](https://zhuanlan.zhihu.com/p/774165680)
-<<<<<<< HEAD
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴下-预推免篇-清网研清软北计软微浙大CS](https://zhuanlan.zhihu.com/p/808810450)
-=======
 * @[WhiteNight](https://github.com/WhiteNight123)的[2024年（25届）四非计算机保研经验贴（浙软，北邮，重大，成电，西电杭，深大）](https://zhuanlan.zhihu.com/p/808961775)
->>>>>>> 7ab52e6079fcd144aa06d1181ab645dca6c4f0cb
+* @[Algernon-qaq](https://www.zhihu.com/people/a-er-ji-nong-24)的[2024年（25届）计算机保研 夏令营0offer 预推免绝地反击 924才拿到offer 预推免7天面9个院校（武大网安、东南软件、东北软件、湖南软件、大工软、西交软、重大软件、电科网安、武大计院）](https://zhuanlan.zhihu.com/p/809351967)
