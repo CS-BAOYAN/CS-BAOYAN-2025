@@ -23,3 +23,4 @@
 * @[合金Bunny酱](https://space.bilibili.com/305821778)的[2024计算机保研经验贴（哈工深，中山，华工，东南）](https://www.bilibili.com/opus/982457937753538582)
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴上-夏令营篇-清叉北智软微人大高瓴清深TBSI复旦CS科大CS](https://zhuanlan.zhihu.com/p/774165680)
 * @[WhiteNight](https://github.com/WhiteNight123)的[2024年（25届）四非计算机保研经验贴（浙软，北邮，重大，成电，西电杭，深大）](https://zhuanlan.zhihu.com/p/808961775)
+* @[Algernon-qaq](https://www.zhihu.com/people/a-er-ji-nong-24)的[2024年（25届）计算机保研 夏令营0offer 预推免绝地反击 924才拿到offer 预推免7天面9个院校（武大网安、东南软件、东北软件、湖南软件、大工软、西交软、重大软件、电科网安、武大计院）](https://zhuanlan.zhihu.com/p/809351967)
