@@ -1,4 +1,5 @@
 # 2024年保研总结贴
+* @[游戏新手老高](https://www.zhihu.com/people/97-34-14-78-68)的[2024末二 夏rk5预推rk2 无专利无论文 保研北航CS 科普&叙事向 2.8w字《保研记》](https://zhuanlan.zhihu.com/p/721669410)
 * @[lhmd](https://www.zhihu.com/people/li-hun-meng-die)的[25届（2024年）计算机保研回忆录（北大深圳，北京通院，西湖大学，浙大，上交，南大）--华五低rank版](https://zhuanlan.zhihu.com/p/816993503)
 * @[等柳成荫](https://www.zhihu.com/people/deng-liu-cheng-yin)的[2024年（25届）保研回忆录- 末2边缘人无六级版](https://zhuanlan.zhihu.com/p/791980186)
 * @[Nelson](https://bosswnx.xyz)的[2024年(25届)计算机保研211+低rk+强竞赛+零科研经验分享(南大智软)](https://zhuanlan.zhihu.com/p/764039629)
