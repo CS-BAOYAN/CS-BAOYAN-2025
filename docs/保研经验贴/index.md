@@ -4,23 +4,24 @@
 
 感谢所有同学的无私分享~ 谢谢大家~
 
-感谢前任群主和学长们[ZhikangNiu](https://github.com/ZhikangNiu)、[shiyi001](https://github.com/shiyi001)、[hcy](https://github.com/hcy226)、[Andy Zheng](https://github.com/Smlight)、[BoJack](https://github.com/ddlBoJack)、[墨云沧（虎哥）](https://github.com/richardodliu)和[阿尔法杨XDU（杨神）](https://github.com/Alpha-Yang)的收集和整理，保研经验贴、夏令营信息和预推免信息以后将统一在本项目中更新。
+感谢前任群主和学长们[ZhikangNiu](https://github.com/ZhikangNiu)、[yfyeung](https://github.com/yfyeung)、[shiyi001](https://github.com/shiyi001)、[hcy](https://github.com/hcy226)、[Andy Zheng](https://github.com/Smlight)、[BoJack](https://github.com/ddlBoJack)、[墨云沧（虎哥）](https://github.com/richardodliu)和[阿尔法杨XDU（杨神）](https://github.com/Alpha-Yang)的收集和整理，保研经验贴、夏令营信息和预推免信息以后将统一在本项目中更新。
 
 ## TOC
 
 - [2024年保研总结贴](./2024年保研总结贴/)
-- [2023年保研总结贴](./2023.md)
-- [2022年保研总结贴](./2022.md)
-- [2021年保研总结贴](./2021.md)
-- [2020年保研总结贴](./2020.md)
-- [2019年保研总结贴](./2019.md)
-- [2018年保研总结贴](./2018.md)
-- [2017年保研总结贴](./2017.md)
+- [2023年保研总结贴](./2023年.md)
+- [2022年保研总结贴](./2022年.md)
+- [2021年保研总结贴](./2021年.md)
+- [2020年保研总结贴](./2020年.md)
+- [2019年保研总结贴](./2019年.md)
+- [2018年保研总结贴](./2018年.md)
+- [2017年保研总结贴](./2017年.md)
 
 ## Copyright
 
 ```
-Copyright 2023 (Yifan   Yang, https://github.com/yfyeung,
+Copyright 2024 (Zhikang Niu, https://github.com/ZhikangNiu,
+                Yifan   Yang, https://github.com/yfyeung,
                 Renbiao Liu,  https://github.com/richardodliu,
                 Wenhao  Yang, https://github.com/Alpha-Yang,
                 Zengkai Peng, https://github.com/zengkaipeng,
