@@ -27,3 +27,4 @@
 * @[Algernon-qaq](https://www.zhihu.com/people/a-er-ji-nong-24)的[2024年（25届）计算机保研 夏令营0offer 预推免绝地反击 924才拿到offer 预推免7天面9个院校（武大网安、东南软件、东北软件、湖南软件、大工软、西交软、重大软件、电科网安、武大计院）](https://zhuanlan.zhihu.com/p/809351967)
 * @[BuG_17](https://github.com/17BuGs)的[2024年计算机保研经验分享-末2上岸成电SE-中山AI/东南SE/西工大无人/华师SE/成电SE等](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 * @[zzxAnthony](https://github.com/zzxAnthony)的[24年（25届）双非计算机保研经验贴（天大智算、厦大信院、北航软院等）](https://zhuanlan.zhihu.com/p/786703194)
+* @[Tgotp](https://github.com/Tgotp)的[25保研四非低rk计算机推免经验帖](https://zhuanlan.zhihu.com/p/783162409)
