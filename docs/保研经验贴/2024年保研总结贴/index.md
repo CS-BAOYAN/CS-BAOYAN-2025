@@ -28,3 +28,4 @@
 * @[BuG_17](https://github.com/17BuGs)的[2024年计算机保研经验分享-末2上岸成电SE-中山AI/东南SE/西工大无人/华师SE/成电SE等](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 * @[zzxAnthony](https://github.com/zzxAnthony)的[24年（25届）双非计算机保研经验贴（天大智算、厦大信院、北航软院等）](https://zhuanlan.zhihu.com/p/786703194)
 * @[Tgotp](https://github.com/Tgotp)的[25保研四非低rk计算机推免经验帖](https://zhuanlan.zhihu.com/p/783162409)
+* @[轩辕之风](https://zhuanlan.zhihu.com/p/866583172)的[2024年（25届）计算机保研经验贴（南大/浙软/自所菁英班）](https://zhuanlan.zhihu.com/p/866583172)
