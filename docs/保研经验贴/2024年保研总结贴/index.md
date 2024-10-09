@@ -29,3 +29,4 @@
 * @[zzxAnthony](https://github.com/zzxAnthony)的[24年（25届）双非计算机保研经验贴（天大智算、厦大信院、北航软院等）](https://zhuanlan.zhihu.com/p/786703194)
 * @[Tgotp](https://github.com/Tgotp)的[25保研四非低rk计算机推免经验帖](https://zhuanlan.zhihu.com/p/783162409)
 * @[次林梦叶](https://github.com/cilinmengye)的[朝花夕拾 2024年（25届）四非 本人极度社恐 无科研 无正式项目 无高rk 无ACM 劣势保研（深大 苏大 西电杭 浙软）](https://www.cnblogs.com/cilinmengye/p/18448662)
+* @[Protechny](https://www.zhihu.com/people/xiang-bei-4-62)的[2024年（2025届）CS/SE保研经验分享|无科研竞赛经验|国防科大智能院、中科院软件所、哈工大计算学部、西交软院、成电计院|上岸成电cs专硕](https://zhuanlan.zhihu.com/p/809858162)
