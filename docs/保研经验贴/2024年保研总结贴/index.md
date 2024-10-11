@@ -1,4 +1,5 @@
 # 2024年保研总结贴
+* @[Hubert](https://www.zhihu.com/people/qiu-niang-43-66)的[2024年（25届）计算机推免回忆录（南大CS、同济CS、东南CS、浙软、复旦CS、哈深-PCLab、CAS等）](https://zhuanlan.zhihu.com/p/920568634)
 * @[子衿](https://www.zhihu.com/people/qiu-cong-to)的[2024年（2025届）计算机保研回忆录（pjlab、清软、清深、上交ai、复旦、计算所）](https://zhuanlan.zhihu.com/p/885256711)
 * @[佑水岚](https://www.zhihu.com/people/yi-qing-nai)的[2024年 | 2025届计算机保研经验贴 | 末流211跨保上岸南京大学 | 南大软院、中科大苏州、北京通研院、成电电科院、北邮AI、北航cs、川大cs、北理工自动化 | 【第一篇详细的套磁说明】](https://zhuanlan.zhihu.com/p/770071908)
 * @[游戏新手老高](https://www.zhihu.com/people/97-34-14-78-68)的[2024末二 夏rk5预推rk2 无专利无论文 保研北航CS 科普&叙事向 2.8w字《保研记》](https://zhuanlan.zhihu.com/p/721669410)
