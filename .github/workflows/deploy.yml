@@ -47,7 +47,7 @@ jobs:
       - name: Build with VitePress
         run: pnpm build # 或 pnpm build / yarn build / bun run build
       - name: Create CNAME file
-        run: echo 'aidiy.icu' > docs/.vitepress/dist/CNAME
+        run: echo 'csbaoyan.top' > docs/.vitepress/dist/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
