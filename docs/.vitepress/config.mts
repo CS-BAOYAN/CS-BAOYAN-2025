@@ -38,7 +38,8 @@ export default defineConfig({
   },
   lastUpdated: true,
   lang: 'zh-CN',
-  base: '/CS-BAOYAN-2025',
+  // base: '/CS-BAOYAN-2025',
+  base: '/',
   title: "CSBAOYAN2025",
   description: "CSBAOYAN2025",
   themeConfig: {
