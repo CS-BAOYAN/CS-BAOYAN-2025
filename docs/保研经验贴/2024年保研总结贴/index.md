@@ -38,3 +38,4 @@
 * @[猫了个猫](https://www.zhihu.com/people/lsz-14-39)的[【25保研经验贴】浙大软院、自动化所、中科大、神仙院MMlab、同济软件、中山CS经验贴](https://zhuanlan.zhihu.com/p/770129585)
 * @[ACshine](https://github.com/ACshine)的[2024年（2025届）-中2计算机保研全过程经验帖（杭高院、西工大、北邮、成电、华师、北师、复旦、北航等](https://zhuanlan.zhihu.com/p/860709046)
 * @[swxk](https://www.zhihu.com/people/sai-wai-xing-ke)的[2024年（25届）次九纯rank选手保研回忆录（哈工深cs，中大ai，中科大aids，浙大软院）](https://zhuanlan.zhihu.com/p/924781136)
+* @[Niubility](https://www.zhihu.com/people/la-la-la-la-13-73-65)的[2024年(2025届)中下211计算机保研回忆录（武大遥感&&北理珠海&&厦大信息学院计算机&&东南软件&&浙大工程师&&电子科大&&被中山十杀）](https://zhuanlan.zhihu.com/p/754430616)
