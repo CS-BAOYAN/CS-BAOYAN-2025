@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'CSWiki',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
