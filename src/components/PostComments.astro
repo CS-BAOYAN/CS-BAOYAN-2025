@@ -1,19 +1,57 @@
 <section class="giscus mx-auto mt-10 w-full"></section>
 
-<script
-  src="https://giscus.app/client.js"
-  data-repo="CS-BAOYAN/CS-BAOYAN-2025"
-  data-repo-id="R_kgDOM44fMA"
-  data-category="Announcements"
-  data-category-id="DIC_kwDOM44fMM4Ci6RT"
-  data-mapping="pathname"
-  data-strict="0"
-  data-reactions-enabled="1"
-  data-emit-metadata="0"
-  data-input-position="bottom"
-  data-theme="light"
-  data-lang="zh-CN"
-  data-loading="lazy"
-  crossorigin="anonymous"
-  async
-></script>
+<script>
+  // 获取用户的主题偏好
+  const getPreferredTheme = () => {
+    if (typeof localStorage !== "undefined" && localStorage.getItem("starlight-theme")) {
+      const theme = localStorage.getItem("starlight-theme");
+      return theme === 'auto' ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light") : theme;
+    }
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  };
+
+  // 加载 giscus 评论组件
+  const loadGiscus = (theme) => {
+    const script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.setAttribute('data-repo', 'CS-BAOYAN/CS-BAOYAN-2025');
+    script.setAttribute('data-repo-id', 'R_kgDOM44fMA');
+    script.setAttribute('data-category', 'Announcements');
+    script.setAttribute('data-category-id', 'DIC_kwDOM44fMM4Ci6RT');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-strict', '0');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-emit-metadata', '0');
+    script.setAttribute('data-input-position', 'bottom');
+    script.setAttribute('data-theme', theme);
+    script.setAttribute('data-lang', 'zh-CN');
+    script.setAttribute('data-loading', 'lazy');
+    script.setAttribute('crossorigin', 'anonymous');
+    script.async = true;
+    
+    document.querySelector('.giscus').appendChild(script);
+  };
+
+  // 初始化 giscus 评论组件
+  const theme = getPreferredTheme();
+  loadGiscus(theme);
+
+  // 监听系统主题变化
+  matchMedia(`(prefers-color-scheme: light)`).addEventListener('change', () => {
+    if (getPreferredTheme() === 'auto') {
+      const newTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      loadGiscus(newTheme);
+    }
+  });
+
+  // 监听主题选择器的变化
+  const themeSelect = document.querySelector('starlight-theme-select select');
+  if (themeSelect) {
+    themeSelect.addEventListener('change', (e) => {
+      if (e.currentTarget instanceof HTMLSelectElement) {
+        const newTheme = e.currentTarget.value === 'auto' ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light") : e.currentTarget.value;
+        loadGiscus(newTheme);
+      }
+    });
+  }
+</script>
