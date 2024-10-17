@@ -1,55 +1,21 @@
-# Starlight Starter Kit: Basics
+# CS-BAOYAN-2025
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+> [!IMPORTANT]
+> 在任何情况下，未经允许的申请请仅申请一个群聊，否则我们将会拒绝你的申请，任何转载本群链接的行为均需告知本事项，依此造成的后果自负。
 
-```
-npm create astro@latest -- --template starlight
-```
+- **全国最大非商业用爱交流计算机保研交流群（QQ群号：943826679）**
+- **全国最大非商业用爱交流计算机保研交流群2（QQ群号：620876705）**
+- **全国最大非商业用爱交流计算机保研交流群3（QQ群号：612207580）**
+- **全国最大非商业用爱交流计算机保研交流群4（QQ群号：934495061）**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+## CONTRIBUTION
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+我们正在收集 2022 级同学保研经验贴，欢迎大家 Star & Fork！
 
-## 🚀 Project Structure
+为了能给学弟学妹们更详细的参考与帮助，现在面向全群征集大家公开在社交媒体平台的保研经验贴（知乎、CSDN 等均可）
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+熟悉 Github Pull requests 的同学可以直接把自己经验贴添加了后 PR 给我们，记得保证版本与我的仓库一致。
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+对 PR 不熟悉的同学，可以查阅 [贡献指南](https://cs-baoyan.github.io/CS-BAOYAN-2025/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.html) 中的贡献步骤，同时 [第一次参与开源](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md) 中的流程也或许会有帮助。
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+当然，如果你对本仓库的任何板块，例如复习资料、推荐资料等，想要贡献或者提建议，我们也十分欢迎 PR 和 Issue 。
