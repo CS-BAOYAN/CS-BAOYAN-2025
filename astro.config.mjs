@@ -37,6 +37,10 @@ export default defineConfig({
 						{ label: '2017年保研总结贴', slug: '保研经验贴/2017年' },
 					],
 				},
+				{
+					label: '保研工具箱',
+					autogenerate: { directory: '保研工具箱' },
+				},
 			],
 		}),
 	],
