@@ -6,6 +6,7 @@ import LastUpdated from '@astrojs/starlight/components/LastUpdated.astro';
 import Pagination from '@astrojs/starlight/components/Pagination.astro';
 import { Icon } from '@astrojs/starlight/components';
 import PostComments from "../components/PostComments.astro";
+const isHomepage = Astro.props.slug === '';
 ---
 
 <footer class="sl-flex">
@@ -14,7 +15,7 @@ import PostComments from "../components/PostComments.astro";
 		<LastUpdated {...Astro.props} />
 	</div>
 	<Pagination {...Astro.props} />
-    <PostComments />
+    {isHomepage ? null : <PostComments />}
 
 	{
 		true && (
