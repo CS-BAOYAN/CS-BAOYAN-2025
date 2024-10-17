@@ -1,5 +1,7 @@
 # 2024年保研总结贴
 * @[cii](https://www.zhihu.com/people/ciyi-72)的[2024年（25届）211人工智能保研记录（南大智科+东南palm+中山cs+中科大aids）](https://zhuanlan.zhihu.com/p/705008120)
+* @[种一棵树](https://www.zhihu.com/people/jin-ci-4-52)的[25届（2024年）计算机保研回忆录（软微、武大CS、上交软院、科大网安、浙大CS、清软、复旦CS）](https://zhuanlan.zhihu.com/p/893479631)
+* @[exm17](https://www.zhihu.com/people/ji-mo-ai-17)的[25届计算机保研纪实（NJU/SJTU/神仙院）随缘更新](https://zhuanlan.zhihu.com/p/710750941)
 * @[Hubert](https://www.zhihu.com/people/qiu-niang-43-66)的[2024年（25届）计算机推免回忆录（南大CS、同济CS、东南CS、浙软、复旦CS、哈深-PCLab、CAS等）](https://zhuanlan.zhihu.com/p/920568634)
 * @[子衿](https://www.zhihu.com/people/qiu-cong-to)的[2024年（2025届）计算机保研回忆录（pjlab、清软、清深、上交ai、复旦、计算所）](https://zhuanlan.zhihu.com/p/885256711)
 * @[佑水岚](https://www.zhihu.com/people/yi-qing-nai)的[2024年 | 2025届计算机保研经验贴 | 末流211跨保上岸南京大学 | 南大软院、中科大苏州、北京通研院、成电电科院、北邮AI、北航cs、川大cs、北理工自动化 | 【第一篇详细的套磁说明】](https://zhuanlan.zhihu.com/p/770071908)
@@ -8,7 +10,7 @@
 * @[等柳成荫](https://www.zhihu.com/people/deng-liu-cheng-yin)的[2024年（25届）保研回忆录- 末2边缘人无六级版](https://zhuanlan.zhihu.com/p/791980186)
 * @[Nelson](https://bosswnx.xyz)的[2024年(25届)计算机保研211+低rk+强竞赛+零科研经验分享(南大智软)](https://zhuanlan.zhihu.com/p/764039629)
 * @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[全网唯一经管跨保计算机丨2024年(2025届)保研经验贴（上海ailab，中科大6系，计算所，南大lamda，中山计，浙软，同济）](https://zhuanlan.zhihu.com/p/709985313)
-* @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[2024保研经验贴 (包含 120 个保研经验贴的汇总)](https://www.zhihu.com/collection/967421846?utm_source=qq&utm_medium=social&utm_oi=885488150758191104)<small><u>**（Noting：由于我们没有得到这120位同学的授权，因此我们无法直接分享这些文章。）**</u></small>
+* @[随1234便](https://www.zhihu.com/people/96b113ef41e7a88601debc45a636dfb6)的[2024保研经验贴 (包含 141 个保研经验贴的汇总)](https://www.zhihu.com/collection/967421846?utm_source=qq&utm_medium=social&utm_oi=885488150758191104)<small><u>**（Noting：由于我们没有得到这141位同学的授权，因此我们无法直接分享这些文章。）**</u></small>
 * @[Auroral703](https://github.com/Auroral703)的[2024年（25届）末二中rank计算机推免套磁&&面试经验帖——南开cmm、东南palm、西交软（扫盲向）](https://zhuanlan.zhihu.com/p/722088790)
 * @[HDswag](https://www.zhihu.com/people/swaggyp-79-58)的[25届计算机保研流水账——天大智算保姆书+化学预推免+算法岗实习！(天大智算、厦大信院、瓜大计院、东南计软智、南开计院)](https://zhuanlan.zhihu.com/p/705127447)
 * @[Ark](https://www.cnblogs.com/-ark)的[2021级-人工智能-保研记录（北大医学部+清叉+北大未院+北大软微+人大信院+上交密院+浙大计院+西湖+北京通研院+上海人工智能实验室)](https://www.cnblogs.com/-ark/p/18439590)
@@ -29,6 +31,7 @@
 * @[Frings](https://www.zhihu.com/people/lin-dong-jiang-zhi-91-76)的[2024计算机保研经验贴下-预推免篇-清网研清软北计软微浙大CS](https://zhuanlan.zhihu.com/p/808810450)
 * @[WhiteNight](https://github.com/WhiteNight123)的[2024年（25届）四非计算机保研经验贴（浙软，北邮，重大，成电，西电杭，深大）](https://zhuanlan.zhihu.com/p/808961775)
 * @[Algernon-qaq](https://www.zhihu.com/people/a-er-ji-nong-24)的[2024年（25届）计算机保研 夏令营0offer 预推免绝地反击 924才拿到offer 预推免7天面9个院校（武大网安、东南软件、东北软件、湖南软件、大工软、西交软、重大软件、电科网安、武大计院）](https://zhuanlan.zhihu.com/p/809351967)
+* @[风很大](https://zhuanlan.zhihu.com/p/832349663)的[2024年（25届）计算机保研——纯rk选手上岸pku（北大rw，北深，复旦cs，南大cs，南大se，南大ai，浙大cs，哈工深，中山cs）](https://zhuanlan.zhihu.com/p/832349663)
 * @[BuG_17](https://github.com/17BuGs)的[2024年计算机保研经验分享-末2上岸成电SE-中山AI/东南SE/西工大无人/华师SE/成电SE等](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 * @[zzxAnthony](https://github.com/zzxAnthony)的[24年（25届）双非计算机保研经验贴（天大智算、厦大信院、北航软院等）](https://zhuanlan.zhihu.com/p/786703194)
 * @[Tgotp](https://github.com/Tgotp)的[25保研四非低rk计算机推免经验帖](https://zhuanlan.zhihu.com/p/783162409)
@@ -36,3 +39,7 @@
 * @[Protechny](https://www.zhihu.com/people/xiang-bei-4-62)的[2024年（2025届）CS/SE保研经验分享|无科研竞赛经验|国防科大智能院、中科院软件所、哈工大计算学部、西交软院、成电计院|上岸成电cs专硕](https://zhuanlan.zhihu.com/p/809858162)
 * @[猫了个猫](https://www.zhihu.com/people/lsz-14-39)的[【25保研经验贴】浙大软院、自动化所、中科大、神仙院MMlab、同济软件、中山CS经验贴](https://zhuanlan.zhihu.com/p/770129585)
 * @[ACshine](https://github.com/ACshine)的[2024年（2025届）-中2计算机保研全过程经验帖（杭高院、西工大、北邮、成电、华师、北师、复旦、北航等](https://zhuanlan.zhihu.com/p/860709046)
+* @[swxk](https://www.zhihu.com/people/sai-wai-xing-ke)的[2024年（25届）次九纯rank选手保研回忆录（哈工深cs，中大ai，中科大aids，浙大软院）](https://zhuanlan.zhihu.com/p/924781136)
+* @[Jayson](https://www.zhihu.com/people/cai-cai-46-94-34)的[2024年（2025届）计算机/自动化保研回忆录（南大AI、人大高瓴、浙大控制、中科大6系、清深大数据）](https://zhuanlan.zhihu.com/p/940729266)
+* @[仰望星空俯视银河](https://www.zhihu.com/people/yang-wang-xing-kong-fu-shi-yin-he)的[2024年(25届)计算机保研经验分享——圆梦浙江大学软件学院](https://zhuanlan.zhihu.com/p/911068744)
+* @[天南海北](https://www.zhihu.com/people/tian-nan-hai-bei-2541)的[2024年（2025届）低rank三无鼠鼠保研的奇幻漂流之旅（北邮计院、计算所、华科国光、空天院、国网电科院、东南计院、天佐、科大工硕、浙大软院、科大10系、中大软院、武大网安、北航计院，3.0w字）](https://zhuanlan.zhihu.com/p/839171218)
