@@ -2,7 +2,7 @@
 
 <script>
   // 获取用户的主题偏好
-  const getPreferredTheme = () => {
+  const getPreferredTheme = (): string | null => {
     if (typeof localStorage !== "undefined" && localStorage.getItem("starlight-theme")) {
       const theme = localStorage.getItem("starlight-theme");
       return theme === 'auto' ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light") : theme;
@@ -11,7 +11,7 @@
   };
 
   // 加载 giscus 评论组件
-  const loadGiscus = (theme) => {
+  const loadGiscus = (theme: string) => {
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
     script.setAttribute('data-repo', 'CS-BAOYAN/CS-BAOYAN-2025');
@@ -29,12 +29,15 @@
     script.setAttribute('crossorigin', 'anonymous');
     script.async = true;
     
-    document.querySelector('.giscus').appendChild(script);
+    const giscusContainer = document.querySelector('.giscus');
+    if (giscusContainer) {
+      giscusContainer.appendChild(script);
+    }
   };
 
   // 初始化 giscus 评论组件
   const theme = getPreferredTheme();
-  loadGiscus(theme);
+  loadGiscus(theme ?? 'light'); // 如果 theme 为 null，则使用 'light' 作为默认值
 
   // 监听系统主题变化
   matchMedia(`(prefers-color-scheme: light)`).addEventListener('change', () => {
