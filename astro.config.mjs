@@ -24,15 +24,18 @@ export default defineConfig({
 					slug: '贡献指南',
 				},
 				{
-					label: 'Guides',
+					label: '保研经验贴',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: '总览', slug: '保研经验贴/总览' },
+						{ label: '2024年保研总结贴', slug: '保研经验贴/2024年' },
+						{ label: '2023年保研总结贴', slug: '保研经验贴/2023年' },
+						{ label: '2022年保研总结贴', slug: '保研经验贴/2022年' },
+						{ label: '2021年保研总结贴', slug: '保研经验贴/2021年' },
+						{ label: '2020年保研总结贴', slug: '保研经验贴/2020年' },
+						{ label: '2019年保研总结贴', slug: '保研经验贴/2019年' },
+						{ label: '2018年保研总结贴', slug: '保研经验贴/2018年' },
+						{ label: '2017年保研总结贴', slug: '保研经验贴/2017年' },
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
