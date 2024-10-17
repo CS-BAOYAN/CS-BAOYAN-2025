@@ -38,6 +38,10 @@ export default defineConfig({
 					],
 				},
 				{
+					label: '保研指南',
+					autogenerate: { directory: '保研指南' },
+				},
+				{
 					label: '保研工具箱',
 					autogenerate: { directory: '保研工具箱' },
 				},
