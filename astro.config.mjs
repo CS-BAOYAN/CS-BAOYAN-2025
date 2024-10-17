@@ -41,6 +41,10 @@ export default defineConfig({
 					label: '保研工具箱',
 					autogenerate: { directory: '保研工具箱' },
 				},
+				{
+					label: '信息汇总',
+					autogenerate: { directory: '信息汇总' },
+				},
 			],
 		}),
 	],
