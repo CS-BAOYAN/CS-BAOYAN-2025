@@ -14,6 +14,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
+			logo: {
+			  src: './src/assets/houston.png',
+			},
 			sidebar: [
 				{
 					label: '关于我们',
