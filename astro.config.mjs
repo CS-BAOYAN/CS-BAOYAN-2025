@@ -16,6 +16,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: '关于我们',
+					slug: '关于我们',
+				},
+				{
 					label: '贡献指南',
 					slug: '贡献指南',
 				},
