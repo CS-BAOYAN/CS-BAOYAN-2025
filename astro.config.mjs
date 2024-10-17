@@ -12,7 +12,10 @@ export default defineConfig({
 			  },
 			title: 'CSWiki',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025',
+			},
+			editLink: {
+			  baseUrl: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025/edit/main/',
 			},
 			logo: {
 			  src: './src/assets/houston.png',
