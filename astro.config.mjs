@@ -20,6 +20,7 @@ export default defineConfig({
 			logo: {
 			  src: './src/assets/houston.png',
 			},
+			favicon: '/favicon.ico',
 			sidebar: [
 				{
 					label: '关于我们',
