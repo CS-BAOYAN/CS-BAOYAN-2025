@@ -12,6 +12,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: '贡献指南',
+					slug: '贡献指南',
+				},
+				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
