@@ -1,8 +1,14 @@
 ---
 title: 贡献指南
 description: 计算机科学保研指南贡献指南。
+
 ---
 import { Steps } from '@astrojs/starlight/components';
+import { FileTree } from '@astrojs/starlight/components';
+
+:::note[提示]
+本文档在撰写之初，使用的框架为 Vitepress 而非现在使用的 Astro，因此可能导致部分内容稍微不符合，若影响正常阅读，请在 Issue 中留言。
+:::
 
 ## 贡献流程
 
@@ -75,7 +81,7 @@ Fork 操作本质上是复制了一份本仓库到自己的账号下，并在自
 git clone your_ssh
 ```
 
-::: warning
+:::caution[警告]
 对于之前没有运行过 `git clone` 或者运行 `ssh git@github.com` 的用户，很可能会出现信息提示：
 
 ```text
@@ -92,24 +98,29 @@ Are you sure you want continue connecting(yes/no/[fingerprint])?
 
 在克隆完成之后，可以使用 [VSCode](https://code.visualstudio.com/) 等编辑器打开文件夹并进行编辑，其中首先需要了解的是文件的结构：
 
-```txt
-├───.github
-├───docs
-│   ├───.vitepress
-│   │   ├───cache
-│   │   └───theme
-│   ├───images
-│   ├───public
-│   ├───folders
-│   └───index.md
-├───node_modules
-├───.gitignore
-├───package.json
-├───pnpm-lock.yaml
-└───tsconfig.json
-```
+<FileTree>
+- .github
+    - workflows
+        - deploy.yml
+- node_modules/
+- public/
+- src
+    - assets/
+    - components/
+    - content
+        - docs
+            - images/
+            - **folders**
+                - index.md
+- .gitignore
+- **astro.config.mjs**
+- package.json
+- pnpm-lock.yaml
+- README.md
+- tsconfig.json
+</FileTree>
 
-其中例如 `.gitignore`, `package.json`, `pnpm-lock.yaml`, `tsconfig.json` 均为 Git 以及 Node.js 的相关配置文件，无需过于调整。`docs` 文档中包含 `.vitepress` 内容，此为 VitePress 的配置文件所在的文件夹，而其他的文件夹则按照文档的组织进行排序，其中本项目中全部的图片均维护在 images 文件夹中，而 logo 等资源则维护在 public 文件夹中。
+其中例如 `.gitignore`, `package.json`, `pnpm-lock.yaml`, `tsconfig.json` 均为 Git 以及 Node.js 的相关配置文件，无需过于调整。其中 `astro.config.mjs` 为 astro 的配置文件，而其他的文件夹则按照文档的组织进行排序，其中本项目中全部的图片均维护在 `src/content/docs/images` 文件夹中。读者需要关注的除了 `astro.config.mjs` 之外，其余的只需要关注 `src/content/docs` 文件夹，并在其中组织你的 Markdown 文档。
 
 ### 安装 NodeJS
 
@@ -150,9 +161,50 @@ pnpm dev
 
 在了解了文件结构之后便可以开始撰写文档了，确认自己想要撰写的文档所隶属于的类别，并进入该文件夹，新建一个 Markdown 文档，按照 Markdown 文档的语法进行撰写。
 
-与此同时值得注意的是，VitePress 支持部分的 Markdown 拓展语法，这些内容可以在 [官方文档](https://vitepress.dev/zh/guide/markdown) 中查阅。
+与此同时值得注意的是，Astro 支持部分的 Markdown 拓展语法，这些内容可以在 [官方文档](https://docs.astro.build/zh-cn/getting-started/) 中查阅。
 
-撰写文档之后进行保存即可。在这里需要注明的是，在 VitePress 中使用图片的插入，所使用的相对路径是相对于 Markdown 文档本身的相对路径，而非相对于项目根目录的相对路径。
+### Astro 配置
+
+详细的 Astro 配置请参考 [Astro 官方文档](https://docs.astro.build/zh-cn/getting-started/)，这里只介绍 Astro 配置的必要内容。
+
+当读者想要重新新建一个文档的时候，需要在 `astro.config.mjs` 文件中进行配置，以下是一个示例：
+
+```ts {"1":5} ins={"2":6-9} ins={"3":16-18} {"4":20-23} 
+export default defineConfig({
+	integrations: [
+		starlight({
+			...,
+			sidebar: [
+				{
+					label: '关于我们',
+					slug: '关于我们',
+				},
+				{
+					label: '贡献指南',
+					slug: '贡献指南',
+				},
+				{
+					label: 'Guides',
+					items: [
+						{ label: 'Example Guide', slug: 'guides/example' },
+					],
+				},
+				{
+					label: 'Reference',
+					autogenerate: { directory: 'reference' },
+				},
+			],
+		}),
+	],
+});
+```
+
+<Steps>
+1. 在 `integrations` 中找到 `starlight` 集成，并找到 `sidebar` 侧边栏。
+2. 假如说想要添加一则新文档 `关于我们.mdx`，使用 `label` 添加到侧边栏标题，并在 `slug` 中填写路径即可，可以省略后缀名。
+3. 假如说在某一目录下添加一则新文档 `guides/example.mdx`，且在侧边栏中显示在 `Guides` 下面，则需要使用 `items` 字段，并在其中添加一个新的对象，规则不变。
+4. 对于目录 `reference`，可以注意到其中包含了 `autogenerate` 字段，该字段可以自动生成目录，从而不需要手动添加。
+</Steps>
 
 ### 提交更改
 
@@ -183,7 +235,7 @@ git push origin main
 
 ## 保研经验贴贡献流程
 
-贡献者可以在 `/docs/保研经验贴/2024年` 中新开一则 Markdown 文档，并按照 Markdown 的语法进行撰写，并使用上述流程进行投稿；或者已经在其他平台进行了投稿的，可以在 `/docs/保研经验贴/2024年/index.md` 文档中添加自己的链接。
+贡献者可以在 `/src/content/docs/保研经验贴/2024年` 中新开一则 Markdown 文档，并按照 Markdown 的语法进行撰写，并使用上述流程进行投稿；或者已经在其他平台进行了投稿的，可以在 `/docs/保研经验贴/2024年/index.md` 文档中添加自己的链接。
 
 对于新开 Markdown 文档，需要按照以下格式：
 
